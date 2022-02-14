@@ -3,27 +3,39 @@ owner: oribisoftware # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: Oribi
+  - name: Hemsidan (oribi.se)
     url: https://oribi.se
-  - name: Oribi Web Store
+    icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
+    assignees:
+      - nilslockean
+  - name: Oribi Web Store (oribisoftware.com)
     url: https://oribisoftware.com/en
-  - name: Oribi Habitat
+    icon: https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png
+    assignees:
+      - nilslockean
+  - name: Oribi Habitat (dl.oribisoftware.com)
     url: https://dl.oribisoftware.com
+    icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
+    assignees:
+      - jkristell
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.oribi.se
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/oribisoftware/upptime/master/assets/logo.svg
+  favicon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
+  name: Driftstatus
+  introTitle: "**Servern nere?** Här kan du se aktuell driftstatus för alla Oribis tjänster."
+  introMessage: Var femte minut gör systemet en kontroll av samtliga servrar och meddelar ansvarig utvecklare om något inte stämmer, allt sköts via [GitHub](https://github.com/oribisoftware/upptime). Var tolfte timme körs även en grundläggande testsvit av [Postman](https://go.postman.co/workspace/Oribi-Team-Workspace~a7f3260d-f4d1-4306-8861-17fbb8c067eb/collection/1128059-3522d8f6-d6db-4aaa-87f8-d61e7867d7ad).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: PostMan
+      href: https://oribisoftware.postman.co
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
