@@ -34,8 +34,66 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: PostMan
+    - title: Postman
       href: https://oribisoftware.postman.co
+
+i18n:
+  activeIncidents: Problem just nu
+  allSystemsOperational: Alla servrar snurrar som de ska!
+  incidentReport: "Incidentrapport #$NUMBER →"
+  activeIncidentSummary: Upptäckt $DATE med $POSTS statusuppdateringar
+  incidentTitle: Detaljer om incident $NUMBER
+  incidentDetails: Incidentdetaljer
+  incidentFixed: Löst
+  incidentOngoing: Jobbar på det
+  incidentOpenedAt: Upptäckt den
+  incidentClosedAt: Åtgärdat den
+  incidentSubscribe: Håll mig uppdaterad
+  incidentViewOnGitHub: Visa på GitHub
+  incidentCommentSummary: Statusuppdatering av $AUTHOR den $DAT
+  incidentBack: ← Tillbaka till översikten
+  pastIncidents: Tidigare problem
+  pastIncidentsResolved: Löst på $MINUTES minuter med $POSTS statusuppdateringar
+  liveStatus: Status just nu
+  overallUptime: "Upptid: $UPTIME"
+  overallUptimeTitle: Upptid
+  averageResponseTime: "Genomsnittlig svarstid: $TIMEms"
+  averageResponseTimeTitle: Genomsnittlig svarstid
+  sevelDayResponseTime: Svarstid senaste veckan
+  responseTimeMs: Svarstid (ms)
+  up: Uppe
+  down: Nere
+  degraded: Degraderad
+  ms: ms
+  loading: Laddar
+  navGitHub: GitHub
+  footer: Denna sida är [publik]($REPO), och bygger på [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Rate limit exceeded
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: Något gick fel
+  errorIntro: Kunde inte hämta aktuell driftstatus.
+  errorText: Prova igen om en stund.
+  errorHome: Gå till startsidan.
+  pastScheduledMaintenance: Tidigare planerat underhåll
+  scheduledMaintenance: Planerat underhåll
+  scheduledMaintenanceSummaryStarted: Började $DATE och pågick i $DURATION minuter
+  scheduledMaintenanceSummaryStarts: Börjar $DATE och pågår $DURATION r
+  startedAt: Började
+  startsAt: Börjar
+  duration: Tidsåtgång
+  durationMin: $DURATION minuter
+  incidentCompleted: Avslutad
+  incidentScheduled: Kommande
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
