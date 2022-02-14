@@ -15,6 +15,7 @@ sites:
       - nilslockean
   - name: Oribi Web Store / Licensnyckelkontroll (E-nycklar)
     url: $EDD_LICENSE_ENDPOINT/?edd_action=check_license&item_name=test&license=1234
+    icon: https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png
     assignees:
       - nilslockean
   - name: Habitat (dl.oribisoftware.com)
@@ -24,14 +25,17 @@ sites:
       - jkristell
   - name: Habitat / Licensnyckelkontroll (H-nycklar)
     url: $HABITAT_LICENSE_ENDPOINT/1234
+    icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
     assignees:
       - jkristell
   - name: Habitat / Licenskontroll av domännamn
     url: $HABITAT_DOMAINCHECK_ENDPOINT/oribi.se
+    icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
     assignees:
       - jkristell
   - name: Habitat / Licenskontroll av skolenhetskod
     url: $HABITAT_SCHOOLID_ENDPOINT/2147483646
+    icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
     assignees:
       - jkristell
   - name: Databas för användarinställningar i Office-tillägg
@@ -60,10 +64,12 @@ sites:
     assignees:
       - jkristell
   - name: OCR
-    url: $OCR_ENDPOINT
+    url: https://apipro2.ocr.space/parse/image
     method: POST
     headers:
       - "apikey: $OCR_API_KEY"
+    assignee:
+      - nilslockean
   - name: Ordboken
     url: $DICTIONARY_ENDPOINT/?language=swe&word=test
     __dangerous__body_down: "[]"
