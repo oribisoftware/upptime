@@ -1,7 +1,7 @@
-url: $OCR_ENDPOINT
+url: https://apipro2.ocr.space/parse/image
 status: down
 code: 411
-responseTime: 635
-lastUpdated: 2022-02-14T13:46:49.864Z
+responseTime: 644
+lastUpdated: 2022-02-14T15:16:03.384Z
 startTime: Mon Feb 14 2022 13:46:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
