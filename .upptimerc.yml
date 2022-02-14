@@ -3,20 +3,29 @@ owner: oribisoftware # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: Oribi
+  - name: Hemsidan (oribi.se)
     url: https://oribi.se
-  - name: Oribi Web Store
+    icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
+    assignees:
+      - nilslockean
+  - name: Oribi Web Store (oribisoftware.com)
     url: https://oribisoftware.com/en
-  - name: Oribi Habitat
+    icon: https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png
+    assignees:
+      - nilslockean
+  - name: Oribi Habitat (dl.oribisoftware.com)
     url: https://dl.oribisoftware.com
+    icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
+    assignees:
+      - jkristell
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.oribi.se
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://raw.githubusercontent.com/oribisoftware/upptime/master/assets/oribi-logo.svg
+  name: Driftstatus
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
