@@ -120,7 +120,7 @@ i18n:
   incidentClosedAt: Åtgärdat den
   incidentSubscribe: Håll mig uppdaterad
   incidentViewOnGitHub: Visa på GitHub
-  incidentCommentSummary: Statusuppdatering av $AUTHOR den $DAT
+  incidentCommentSummary: Statusuppdatering av $AUTHOR den $DATE
   incidentBack: ← Tillbaka till översikten
   pastIncidents: Tidigare problem
   pastIncidentsResolved: Löst på $MINUTES minuter med $POSTS statusuppdateringar
@@ -157,7 +157,7 @@ i18n:
   pastScheduledMaintenance: Tidigare planerat underhåll
   scheduledMaintenance: Planerat underhåll
   scheduledMaintenanceSummaryStarted: Började $DATE och pågick i $DURATION minuter
-  scheduledMaintenanceSummaryStarts: Börjar $DATE och pågår $DURATION r
+  scheduledMaintenanceSummaryStarts: Börjar $DATE och pågår i $DURATION minuter
   startedAt: Började
   startsAt: Börjar
   duration: Tidsåtgång
