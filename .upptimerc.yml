@@ -23,7 +23,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.oribi.se
-  theme: ocean
+  theme: night
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/oribisoftware/upptime/master/assets/icon-dark.svg
   favicon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
