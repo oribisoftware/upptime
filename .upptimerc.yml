@@ -25,14 +25,17 @@ status-website:
   # cname: status.oribi.se
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/oribisoftware/upptime/master/assets/logo.svg
+  favicon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
   name: Driftstatus
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Servern nere?** Här kan du se aktuell driftstatus för alla Oribis tjänster."
+  introMessage: Var femte minut gör systemet en kontroll av samtliga servrar och meddelar ansvarig utvecklare om något inte stämmer, allt sköts via [GitHub](https://github.com/oribisoftware/upptime). Var tolfte timme körs även en grundläggande testsvit av [Postman](https://go.postman.co/workspace/Oribi-Team-Workspace~a7f3260d-f4d1-4306-8861-17fbb8c067eb/collection/1128059-3522d8f6-d6db-4aaa-87f8-d61e7867d7ad).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: PostMan
+      href: https://oribisoftware.postman.co
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
