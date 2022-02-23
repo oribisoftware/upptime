@@ -115,9 +115,9 @@ i18n:
   incidentTitle: Detaljer om incident $NUMBER
   incidentDetails: Incidentdetaljer
   incidentFixed: Löst
-  incidentOngoing: Jobbar på det
-  incidentOpenedAt: Upptäckt den
-  incidentClosedAt: Åtgärdat den
+  incidentOngoing: Buggrapport skapad
+  incidentOpenedAt: Upptäckt
+  incidentClosedAt: Åtgärdat
   incidentSubscribe: Håll mig uppdaterad
   incidentViewOnGitHub: Visa på GitHub
   incidentCommentSummary: Statusuppdatering av $AUTHOR den $DATE
