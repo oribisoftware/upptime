@@ -167,38 +167,36 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ordprediktion",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 636,
     "timeDay": 677,
     "timeWeek": 630,
     "timeMonth": 636,
     "timeYear": 636,
-    "dailyMinutesDown": {
-      "2022-02-23": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ordboken",
     "url": "$DICTIONARY_ENDPOINT/?language=swe&word=test",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ordboken",
-    "status": "down",
-    "uptime": "98.69%",
-    "uptimeDay": "88.10%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.69%",
-    "time": 725,
-    "timeDay": 659,
-    "timeWeek": 705,
-    "timeMonth": 725,
-    "timeYear": 725,
+    "status": "up",
+    "uptime": "97.51%",
+    "uptimeDay": "77.12%",
+    "uptimeWeek": "96.73%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "97.51%",
+    "time": 719,
+    "timeDay": 655,
+    "timeWeek": 699,
+    "timeMonth": 719,
+    "timeYear": 719,
     "dailyMinutesDown": {
-      "2022-02-23": 171
+      "2022-02-23": 330
     }
   },
   {
@@ -225,18 +223,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raettstavning",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 332,
     "timeDay": 432,
     "timeWeek": 316,
     "timeMonth": 332,
     "timeYear": 332,
-    "dailyMinutesDown": {
-      "2022-02-23": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
