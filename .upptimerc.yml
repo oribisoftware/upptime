@@ -101,7 +101,7 @@ status-website:
   introMessage: Var femte minut gör systemet en kontroll av samtliga servrar och meddelar ansvarig utvecklare om något inte stämmer, allt sköts via [GitHub](https://github.com/oribisoftware/upptime). Var tolfte timme körs även en grundläggande testsvit av [Postman](https://go.postman.co/workspace/Oribi-Team-Workspace~a7f3260d-f4d1-4306-8861-17fbb8c067eb/collection/1128059-3522d8f6-d6db-4aaa-87f8-d61e7867d7ad).
   navbar:
     - title: Status
-      href: /
+      href: /$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Postman
