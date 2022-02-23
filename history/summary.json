@@ -166,19 +166,19 @@
     "url": "$PREDICTION_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ordprediktion",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 644,
-    "timeWeek": 616,
-    "timeMonth": 628,
-    "timeYear": 628,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 636,
+    "timeDay": 677,
+    "timeWeek": 630,
+    "timeMonth": 636,
+    "timeYear": 636,
     "dailyMinutesDown": {
-      "2022-02-23": 0
+      "2022-02-23": 9
     }
   },
   {
@@ -187,18 +187,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ordboken",
     "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "88.73%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
+    "uptime": "98.69%",
+    "uptimeDay": "88.10%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
     "time": 725,
     "timeDay": 659,
     "timeWeek": 705,
     "timeMonth": 725,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2022-02-23": 162
+      "2022-02-23": 171
     }
   },
   {
@@ -224,19 +224,19 @@
     "url": "$SPELLCHECK_ENDPOINT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "raettstavning",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 355,
-    "timeWeek": 283,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 332,
+    "timeDay": 432,
+    "timeWeek": 316,
+    "timeMonth": 332,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2022-02-23": 0
+      "2022-02-23": 9
     }
   }
 ]
