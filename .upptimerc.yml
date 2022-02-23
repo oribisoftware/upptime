@@ -38,10 +38,10 @@ sites:
     icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
     assignees:
       - jkristell
-  - name: Databas för användarinställningar i Office-tillägg
-    url: $USER_SETTINGS_MYSQL_ENDPOINT/oribispeak
-    assignees:
-      - glosboken
+  # - name: Databas för användarinställningar i Office-tillägg
+  #   url: $USER_SETTINGS_MYSQL_ENDPOINT/oribispeak
+  #   assignees:
+  #     - glosboken
   - name: TTS (Oribi Speak talsyntes)
     url: $TTS_ENDPOINT/speak
     method: POST
@@ -63,11 +63,11 @@ sites:
     body: '{ "input": "test", "apiKey": "$PREDICTION_API_KEY" }'
     assignees:
       - jkristell
-  - name: OCR
-    url: https://apipro2.ocr.space/parse/image
-    method: POST
-    headers:
-      - "apikey: $OCR_API_KEY"
+  # - name: OCR
+  #   url: https://apipro2.ocr.space/parse/image
+  #   method: POST
+  #   headers:
+  #     - "apikey: $OCR_API_KEY"
     assignee:
       - nilslockean
   - name: Ordboken
