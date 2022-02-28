@@ -44,6 +44,7 @@ sites:
   #     - glosboken
   - name: TTS (Oribi Speak talsyntes)
     url: $TTS_ENDPOINT/speak
+    icon: https://dev--oribi-speak-light.netlify.app/favicon.ico
     method: POST
     headers:
       - "Content-Type: application/json"
@@ -52,10 +53,12 @@ sites:
       - jkristell
   - name: TTS / Tillgängliga röster
     url: $TTS_ENDPOINT/voices
+    icon: https://oribi-speak-light.netlify.app/favicon.ico
     assignees:
       - jkristell
   - name: Ordprediktion
     url: $PREDICTION_ENDPOINT
+    icon: https://oribi-speak-light.netlify.app/favicon.ico
     method: POST
     headers:
       - "Accept: application/json"
@@ -72,15 +75,18 @@ sites:
       - nilslockean
   - name: Ordboken
     url: $DICTIONARY_ENDPOINT/?language=swe&word=test
+    icon: https://orilex.netlify.app/favicon.ico
     __dangerous__body_down: "[]"
     assignees:
       - glosboken
   - name: Ordboken / Tillgänliga ljudfiler
     url: $DICTIONARY_SOUNDS_ENDPOINT
+    icon: https://orilex.netlify.app/favicon.ico
     assignees:
       - nilslockean
   - name: Rättstavning
     url: $SPELLCHECK_ENDPOINT
+    icon: https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x.png
     method: POST
     headers:
       - "Content-Type: application/json"
