@@ -95,11 +95,11 @@ sites:
       - jkristell
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.oribi.se
+  # baseUrl: /upptime
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  cname: status.oribi.se
   theme: night
-  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/oribisoftware/upptime/master/assets/icon-dark.svg
   favicon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
   name: Driftstatus
@@ -107,7 +107,7 @@ status-website:
   introMessage: Var femte minut gör systemet en kontroll av samtliga servrar och meddelar ansvarig utvecklare om något inte stämmer, allt sköts via [GitHub](https://github.com/oribisoftware/upptime). Var tolfte timme körs även en grundläggande testsvit av [Postman](https://go.postman.co/workspace/Oribi-Team-Workspace~a7f3260d-f4d1-4306-8861-17fbb8c067eb/collection/1128059-3522d8f6-d6db-4aaa-87f8-d61e7867d7ad).
   navbar:
     - title: Status
-      href: /$REPO
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Postman
@@ -143,7 +143,7 @@ i18n:
   ms: ms
   loading: Laddar
   navGitHub: GitHub
-  footer: Denna sida är [publik]($REPO), och bygger på [Upptime](https://upptime.js.org)
+  footer: Denna sida är [publik](https://github.com/$OWNER/$REPO), och bygger på [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Rate limit exceeded
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
