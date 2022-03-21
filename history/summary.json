@@ -166,10 +166,10 @@
     "url": "$PREDICTION_ENDPOINT",
     "icon": "https://oribi-speak-light.netlify.app/favicon.ico",
     "slug": "ordprediktion",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
@@ -177,25 +177,28 @@
     "timeWeek": 644,
     "timeMonth": 623,
     "timeYear": 621,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-21": 1
+    }
   },
   {
     "name": "Ordboken",
     "url": "$DICTIONARY_ENDPOINT/?language=swe&word=test",
     "icon": "https://orilex.netlify.app/favicon.ico",
     "slug": "ordboken",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.25%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.35%",
     "time": 732,
     "timeDay": 626,
     "timeWeek": 752,
     "timeMonth": 731,
     "timeYear": 732,
     "dailyMinutesDown": {
+      "2022-03-21": 1,
       "2022-02-23": 330
     }
   },
@@ -222,9 +225,9 @@
     "url": "$SPELLCHECK_ENDPOINT",
     "icon": "https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x.png",
     "slug": "raettstavning",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -233,6 +236,8 @@
     "timeWeek": 275,
     "timeMonth": 312,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-21": 0
+    }
   }
 ]
