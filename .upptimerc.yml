@@ -47,7 +47,7 @@ sites:
     icon: https://dev--oribi-speak-light.netlify.app/favicon.ico
     method: POST
     headers:
-      - "Content-Type: application/json"
+      - 'Content-Type: application/json'
     body: '{ "text": "detta är ett test", "voice": "elin" }'
     assignees:
       - jkristell
@@ -61,22 +61,22 @@ sites:
     icon: https://oribi-speak-light.netlify.app/favicon.ico
     method: POST
     headers:
-      - "Accept: application/json"
-      - "Content-Type: application/json"
+      - 'Accept: application/json'
+      - 'Content-Type: application/json'
     body: '{ "input": "test", "apiKey": "$PREDICTION_API_KEY" }'
     assignees:
       - jkristell
-  # - name: OCR
-  #   url: https://apipro2.ocr.space/parse/image
-  #   method: POST
-  #   headers:
-  #     - "apikey: $OCR_API_KEY"
+    # - name: OCR
+    #   url: https://apipro2.ocr.space/parse/image
+    #   method: POST
+    #   headers:
+    #     - "apikey: $OCR_API_KEY"
     assignee:
       - nilslockean
   - name: Ordboken
     url: $DICTIONARY_ENDPOINT/?language=swe&word=test
     icon: https://orilex.netlify.app/favicon.ico
-    __dangerous__body_down: "[]"
+    __dangerous__body_down: '[]'
     assignees:
       - glosboken
   - name: Ordboken / Tillgänliga ljudfiler
@@ -89,10 +89,15 @@ sites:
     icon: https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x.png
     method: POST
     headers:
-      - "Content-Type: application/json"
+      - 'Content-Type: application/json'
     body: '{ "text": "abåre" }'
     assignees:
       - jkristell
+  - name: Mattetecken (Microsoft Word)
+    url: https://mattetecken.netlify.app
+    icon: https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x-6.png
+    assignees:
+      - bonesbopper
 
 status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -103,7 +108,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/oribisoftware/upptime/master/assets/icon-dark.svg
   favicon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
   name: Driftstatus
-  introTitle: "**Servern nere?** Här kan du se aktuell driftstatus för alla Oribis tjänster."
+  introTitle: '**Servern nere?** Här kan du se aktuell driftstatus för alla Oribis tjänster.'
   introMessage: Var femte minut gör systemet en kontroll av samtliga servrar och meddelar ansvarig utvecklare om något inte stämmer, allt sköts via [GitHub](https://github.com/oribisoftware/upptime). Var tolfte timme körs även en grundläggande testsvit av [Postman](https://go.postman.co/workspace/Oribi-Team-Workspace~a7f3260d-f4d1-4306-8861-17fbb8c067eb/collection/1128059-3522d8f6-d6db-4aaa-87f8-d61e7867d7ad).
   navbar:
     - title: Status
@@ -116,7 +121,7 @@ status-website:
 i18n:
   activeIncidents: Problem just nu
   allSystemsOperational: Alla servrar snurrar som de ska!
-  incidentReport: "Incidentrapport #$NUMBER →"
+  incidentReport: 'Incidentrapport #$NUMBER →'
   activeIncidentSummary: Upptäckt $DATE med $POSTS statusuppdateringar
   incidentTitle: Detaljer om incident $NUMBER
   incidentDetails: Incidentdetaljer
@@ -131,9 +136,9 @@ i18n:
   pastIncidents: Tidigare problem
   pastIncidentsResolved: Löst på $MINUTES minuter med $POSTS statusuppdateringar
   liveStatus: Status just nu
-  overallUptime: "Upptid: $UPTIME"
+  overallUptime: 'Upptid: $UPTIME'
   overallUptimeTitle: Upptid
-  averageResponseTime: "Genomsnittlig svarstid: $TIMEms"
+  averageResponseTime: 'Genomsnittlig svarstid: $TIMEms'
   averageResponseTimeTitle: Genomsnittlig svarstid
   sevelDayResponseTime: Svarstid senaste veckan
   responseTimeMs: Svarstid (ms)
@@ -170,6 +175,5 @@ i18n:
   durationMin: $DURATION minuter
   incidentCompleted: Avslutad
   incidentScheduled: Kommande
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
