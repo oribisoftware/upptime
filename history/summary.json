@@ -189,12 +189,12 @@
     "status": "up",
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.29%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.62%",
     "time": 742,
     "timeDay": 642,
-    "timeWeek": 685,
+    "timeWeek": 663,
     "timeMonth": 709,
     "timeYear": 742,
     "dailyMinutesDown": {
@@ -243,17 +243,19 @@
     "url": "https://mattetecken.netlify.app",
     "icon": "https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x-6.png",
     "slug": "mattetecken-microsoft-word",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 42,
-    "timeWeek": 87,
-    "timeMonth": 185,
-    "timeYear": 185,
-    "dailyMinutesDown": {}
+    "time": 403,
+    "timeDay": 1531,
+    "timeWeek": 453,
+    "timeMonth": 403,
+    "timeYear": 403,
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   }
 ]
