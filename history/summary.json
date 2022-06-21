@@ -208,9 +208,9 @@
     "url": "$DICTIONARY_SOUNDS_ENDPOINT",
     "icon": "https://orilex.netlify.app/favicon.ico",
     "slug": "ordboken-tillgaenliga-ljudfiler",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -219,7 +219,9 @@
     "timeWeek": 1158,
     "timeMonth": 1138,
     "timeYear": 1229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Rättstavning",
