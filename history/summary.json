@@ -22,9 +22,9 @@
     "url": "https://oribisoftware.com/en",
     "icon": "https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png",
     "slug": "oribi-web-store-oribisoftware-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 1329,
     "timeMonth": 1463,
     "timeYear": 1578,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Oribi Web Store / Licensnyckelkontroll (E-nycklar)",
     "url": "$EDD_LICENSE_ENDPOINT/?edd_action=check_license&item_name=test&license=1234",
     "icon": "https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png",
     "slug": "oribi-web-store-licensnyckelkontroll-e-nycklar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +53,18 @@
     "timeWeek": 244,
     "timeMonth": 240,
     "timeYear": 264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Habitat (dl.oribisoftware.com)",
     "url": "https://dl.oribisoftware.com",
     "icon": "https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png",
     "slug": "habitat-dl-oribisoftware-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 562,
     "timeMonth": 550,
     "timeYear": 777,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Habitat / Licensnyckelkontroll (H-nycklar)",
@@ -209,18 +215,18 @@
     "icon": "https://orilex.netlify.app/favicon.ico",
     "slug": "ordboken-tillgaenliga-ljudfiler",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1229,
     "timeDay": 1043,
     "timeWeek": 1158,
     "timeMonth": 1138,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 9
     }
   },
   {
