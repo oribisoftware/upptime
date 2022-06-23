@@ -273,18 +273,18 @@
     "icon": "https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x.png",
     "slug": "cust1-predict",
     "status": "up",
-    "uptime": "7.27%",
-    "uptimeDay": "7.27%",
-    "uptimeWeek": "7.27%",
-    "uptimeMonth": "7.27%",
-    "uptimeYear": "7.27%",
+    "uptime": "0.21%",
+    "uptimeDay": "0.21%",
+    "uptimeWeek": "0.21%",
+    "uptimeMonth": "0.21%",
+    "uptimeYear": "0.21%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-23": 0
+      "2022-06-23": 17
     }
   }
 ]
