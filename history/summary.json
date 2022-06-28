@@ -22,11 +22,11 @@
     "url": "https://oribisoftware.com/en",
     "icon": "https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png",
     "slug": "oribi-web-store-oribisoftware-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 1603,
     "timeDay": 1031,
@@ -34,6 +34,7 @@
     "timeMonth": 1656,
     "timeYear": 1603,
     "dailyMinutesDown": {
+      "2022-06-28": 3,
       "2022-06-21": 30
     }
   },
@@ -42,10 +43,10 @@
     "url": "$EDD_LICENSE_ENDPOINT/?edd_action=check_license&item_name=test&license=1234",
     "icon": "https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png",
     "slug": "oribi-web-store-licensnyckelkontroll-e-nycklar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 261,
@@ -54,6 +55,7 @@
     "timeMonth": 235,
     "timeYear": 261,
     "dailyMinutesDown": {
+      "2022-06-28": 1,
       "2022-06-21": 30
     }
   },
@@ -62,10 +64,10 @@
     "url": "https://dl.oribisoftware.com",
     "icon": "https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png",
     "slug": "habitat-dl-oribisoftware-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 781,
@@ -74,6 +76,7 @@
     "timeMonth": 625,
     "timeYear": 781,
     "dailyMinutesDown": {
+      "2022-06-28": 1,
       "2022-06-21": 30
     }
   },
@@ -214,9 +217,9 @@
     "url": "$DICTIONARY_SOUNDS_ENDPOINT",
     "icon": "https://orilex.netlify.app/favicon.ico",
     "slug": "ordboken-tillgaenliga-ljudfiler",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
@@ -226,6 +229,7 @@
     "timeMonth": 1111,
     "timeYear": 1219,
     "dailyMinutesDown": {
+      "2022-06-28": 0,
       "2022-06-21": 39
     }
   },
