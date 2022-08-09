@@ -98,6 +98,15 @@ sites:
     icon: https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x-6.png
     assignees:
       - bonesbopper
+  - name: cust1-predict
+    url: https://cust1.oribi.se/api/c1/predict
+    icon: https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x.png
+    method: POST
+    headers:
+      - 'Content-Type: application/json'
+    body: '{ "input": "oribi", "apikey": "$CUST1_PREDICT_APIKEY" }'
+    assignees:
+      - jkristell
 
 status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
