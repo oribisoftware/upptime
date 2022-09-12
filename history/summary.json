@@ -263,9 +263,9 @@
     "slug": "mattetecken-microsoft-word",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 358,
     "timeDay": 2926,
@@ -273,7 +273,6 @@
     "timeMonth": 452,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2022-09-11": 10,
       "2022-05-17": 15
     }
   }
