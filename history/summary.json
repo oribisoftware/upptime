@@ -147,9 +147,9 @@
     "slug": "tts-oribi-speak-talsyntes",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1738,
     "timeDay": 1626,
@@ -157,7 +157,6 @@
     "timeMonth": 1688,
     "timeYear": 1738,
     "dailyMinutesDown": {
-      "2022-11-09": 5,
       "2022-09-22": 132,
       "2022-04-26": 21
     }
