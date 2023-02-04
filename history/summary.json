@@ -143,7 +143,7 @@
     "time": 162,
     "timeDay": 193,
     "timeWeek": 175,
-    "timeMonth": 162,
+    "timeMonth": 163,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2023-01-25": 42
@@ -154,18 +154,19 @@
     "url": "$TTS_ENDPOINT/speak",
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak-talsyntes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 1731,
     "timeDay": 1682,
     "timeWeek": 1620,
-    "timeMonth": 1679,
+    "timeMonth": 1683,
     "timeYear": 1731,
     "dailyMinutesDown": {
+      "2023-02-04": 0,
       "2023-01-25": 50,
       "2022-09-22": 132,
       "2022-04-26": 21
@@ -183,9 +184,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 136,
-    "timeDay": 173,
+    "timeDay": 0,
     "timeWeek": 152,
-    "timeMonth": 137,
+    "timeMonth": 138,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2023-01-25": 49
@@ -203,9 +204,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 627,
-    "timeDay": 714,
+    "timeDay": 0,
     "timeWeek": 644,
-    "timeMonth": 628,
+    "timeMonth": 631,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2023-01-25": 49
@@ -225,7 +226,7 @@
     "time": 740,
     "timeDay": 802,
     "timeWeek": 801,
-    "timeMonth": 720,
+    "timeMonth": 723,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2023-01-25": 42,
@@ -251,9 +252,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 1195,
-    "timeDay": 1425,
+    "timeDay": 0,
     "timeWeek": 1334,
-    "timeMonth": 1184,
+    "timeMonth": 1192,
     "timeYear": 1195,
     "dailyMinutesDown": {
       "2023-01-25": 26,
@@ -274,9 +275,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 275,
-    "timeDay": 280,
+    "timeDay": 0,
     "timeWeek": 274,
-    "timeMonth": 273,
+    "timeMonth": 275,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2023-01-25": 33
@@ -294,7 +295,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 354,
-    "timeDay": 80,
+    "timeDay": 0,
     "timeWeek": 104,
     "timeMonth": 131,
     "timeYear": 354,
