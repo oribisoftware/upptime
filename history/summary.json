@@ -154,9 +154,9 @@
     "url": "$TTS_ENDPOINT/speak",
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak-talsyntes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -166,6 +166,7 @@
     "timeMonth": 1688,
     "timeYear": 1743,
     "dailyMinutesDown": {
+      "2023-04-19": 0,
       "2023-02-05": 267,
       "2023-02-04": 57,
       "2023-01-25": 50,
@@ -226,7 +227,7 @@
     "uptimeYear": "99.64%",
     "time": 740,
     "timeDay": 616,
-    "timeWeek": 634,
+    "timeWeek": 651,
     "timeMonth": 749,
     "timeYear": 737,
     "dailyMinutesDown": {
