@@ -200,10 +200,10 @@
     "url": "$PREDICTION_ENDPOINT",
     "icon": "https://oribi-speak-light.netlify.app/favicon.ico",
     "slug": "ordprediktion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 631,
@@ -212,6 +212,7 @@
     "timeMonth": 589,
     "timeYear": 631,
     "dailyMinutesDown": {
+      "2023-05-24": 1,
       "2023-01-25": 49
     }
   },
@@ -270,10 +271,10 @@
     "url": "$SPELLCHECK_ENDPOINT",
     "icon": "https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x.png",
     "slug": "raettstavning",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 270,
@@ -282,6 +283,7 @@
     "timeMonth": 256,
     "timeYear": 264,
     "dailyMinutesDown": {
+      "2023-05-24": 1,
       "2023-01-25": 33
     }
   },
