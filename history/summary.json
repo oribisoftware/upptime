@@ -71,11 +71,11 @@
     "url": "https://dl.oribisoftware.com",
     "icon": "https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png",
     "slug": "habitat-dl-oribisoftware-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 1036,
     "timeDay": 1134,
@@ -83,6 +83,7 @@
     "timeMonth": 1408,
     "timeYear": 1105,
     "dailyMinutesDown": {
+      "2023-06-01": 3,
       "2023-01-25": 43,
       "2022-07-07": 23,
       "2022-06-28": 38,
@@ -94,11 +95,11 @@
     "url": "$HABITAT_LICENSE_ENDPOINT/1234",
     "icon": "https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png",
     "slug": "habitat-licensnyckelkontroll-h-nycklar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 516,
     "timeDay": 127,
@@ -106,6 +107,7 @@
     "timeMonth": 160,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2023-06-01": 3,
       "2023-01-25": 43
     }
   },
@@ -114,11 +116,11 @@
     "url": "$HABITAT_DOMAINCHECK_ENDPOINT/oribi.se",
     "icon": "https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png",
     "slug": "habitat-licenskontroll-av-domaennamn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 159,
     "timeDay": 122,
@@ -126,6 +128,7 @@
     "timeMonth": 158,
     "timeYear": 157,
     "dailyMinutesDown": {
+      "2023-06-01": 2,
       "2023-01-25": 43
     }
   },
@@ -134,10 +137,10 @@
     "url": "$HABITAT_SCHOOLID_ENDPOINT/2147483646",
     "icon": "https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png",
     "slug": "habitat-licenskontroll-av-skolenhetskod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 161,
@@ -146,6 +149,7 @@
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
+      "2023-06-01": 2,
       "2023-01-25": 42
     }
   },
@@ -200,10 +204,10 @@
     "url": "$PREDICTION_ENDPOINT",
     "icon": "https://oribi-speak-light.netlify.app/favicon.ico",
     "slug": "ordprediktion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 630,
@@ -212,6 +216,7 @@
     "timeMonth": 596,
     "timeYear": 631,
     "dailyMinutesDown": {
+      "2023-06-01": 1,
       "2023-01-25": 49
     }
   },
@@ -270,10 +275,10 @@
     "url": "$SPELLCHECK_ENDPOINT",
     "icon": "https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x.png",
     "slug": "raettstavning",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 270,
@@ -282,6 +287,7 @@
     "timeMonth": 260,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2023-06-01": 1,
       "2023-01-25": 33
     }
   },
