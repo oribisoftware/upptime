@@ -277,10 +277,10 @@
     "url": "https://mattetecken.netlify.app",
     "icon": "https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x-6.png",
     "slug": "mattetecken-microsoft-word",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 282,
@@ -289,6 +289,7 @@
     "timeMonth": 115,
     "timeYear": 264,
     "dailyMinutesDown": {
+      "2023-07-23": 1,
       "2022-11-07": 21
     }
   }
