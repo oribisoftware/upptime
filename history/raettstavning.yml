@@ -1,7 +1,7 @@
 url: $SPELLCHECK_ENDPOINT
 status: up
 code: 200
-responseTime: 238
-lastUpdated: 2023-09-08T23:03:01.108Z
+responseTime: 196
+lastUpdated: 2023-09-09T23:02:54.063Z
 startTime: 2022-02-14T13:46:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
