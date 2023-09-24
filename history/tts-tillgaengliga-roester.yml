@@ -1,7 +1,7 @@
 url: $TTS_ENDPOINT/voices
 status: up
 code: 200
-responseTime: 173
-lastUpdated: 2023-09-23T23:02:50.040Z
+responseTime: 103
+lastUpdated: 2023-09-24T23:02:47.554Z
 startTime: 2022-02-14T13:46:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
