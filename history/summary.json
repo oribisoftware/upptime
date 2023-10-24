@@ -22,10 +22,10 @@
     "url": "https://oribisoftware.com/en",
     "icon": "https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png",
     "slug": "oribi-web-store-oribisoftware-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 1333,
@@ -34,6 +34,7 @@
     "timeMonth": 982,
     "timeYear": 1275,
     "dailyMinutesDown": {
+      "2023-10-24": 3,
       "2023-10-19": 25,
       "2023-01-25": 36
     }
@@ -43,10 +44,10 @@
     "url": "$EDD_LICENSE_ENDPOINT/?edd_action=check_license&item_name=test&license=1234",
     "icon": "https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png",
     "slug": "oribi-web-store-licensnyckelkontroll-e-nycklar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 276,
@@ -55,6 +56,7 @@
     "timeMonth": 262,
     "timeYear": 287,
     "dailyMinutesDown": {
+      "2023-10-24": 1,
       "2023-10-19": 25,
       "2023-01-25": 29
     }
@@ -66,9 +68,9 @@
     "slug": "habitat-dl-oribisoftware-com",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1206,
     "timeDay": 1372,
@@ -76,7 +78,7 @@
     "timeMonth": 1309,
     "timeYear": 1307,
     "dailyMinutesDown": {
-      "2023-10-24": 1,
+      "2023-10-24": 11,
       "2023-01-25": 43
     }
   },
@@ -235,10 +237,10 @@
     "icon": "https://orilex.netlify.app/favicon.ico",
     "slug": "ordboken-tillgaenliga-ljudfiler",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1156,
     "timeDay": 960,
@@ -246,7 +248,7 @@
     "timeMonth": 1047,
     "timeYear": 1149,
     "dailyMinutesDown": {
-      "2023-10-24": 1,
+      "2023-10-24": 10,
       "2023-01-25": 26
     }
   },
