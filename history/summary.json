@@ -64,10 +64,10 @@
     "url": "https://dl.oribisoftware.com",
     "icon": "https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png",
     "slug": "habitat-dl-oribisoftware-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1206,
@@ -76,6 +76,7 @@
     "timeMonth": 1309,
     "timeYear": 1307,
     "dailyMinutesDown": {
+      "2023-10-24": 1,
       "2023-01-25": 43
     }
   },
@@ -233,10 +234,10 @@
     "url": "$DICTIONARY_SOUNDS_ENDPOINT",
     "icon": "https://orilex.netlify.app/favicon.ico",
     "slug": "ordboken-tillgaenliga-ljudfiler",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1156,
@@ -245,6 +246,7 @@
     "timeMonth": 1047,
     "timeYear": 1149,
     "dailyMinutesDown": {
+      "2023-10-24": 1,
       "2023-01-25": 26
     }
   },
