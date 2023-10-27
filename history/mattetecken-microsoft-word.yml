@@ -1,7 +1,7 @@
 url: https://mattetecken.netlify.app
-status: up
-code: 200
-responseTime: 30
-lastUpdated: 2023-10-26T23:02:59.212Z
+status: down
+code: 500
+responseTime: 4043
+lastUpdated: 2023-10-27T16:06:14.945Z
 startTime: 2022-05-06T11:23:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
