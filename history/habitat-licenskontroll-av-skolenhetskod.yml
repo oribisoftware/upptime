@@ -1,7 +1,7 @@
 url: $HABITAT_SCHOOLID_ENDPOINT/2147483646
 status: up
 code: 200
-responseTime: 200
-lastUpdated: 2023-11-11T23:02:51.132Z
+responseTime: 182
+lastUpdated: 2023-11-12T23:02:46.285Z
 startTime: 2022-02-14T13:46:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
