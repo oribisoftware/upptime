@@ -1,7 +1,7 @@
 url: $DICTIONARY_ENDPOINT/?language=swe&word=test
 status: up
 code: 200
-responseTime: 547
-lastUpdated: 2023-11-27T23:02:55.928Z
+responseTime: 879
+lastUpdated: 2023-11-28T23:03:05.726Z
 startTime: 2022-02-14T13:46:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
