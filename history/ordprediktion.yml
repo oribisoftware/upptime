@@ -1,7 +1,7 @@
 url: $PREDICTION_ENDPOINT
 status: up
 code: 200
-responseTime: 725
-lastUpdated: 2023-11-29T23:03:01.971Z
+responseTime: 646
+lastUpdated: 2023-11-30T23:02:57.734Z
 startTime: 2022-02-14T13:46:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
