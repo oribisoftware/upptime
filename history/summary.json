@@ -137,18 +137,18 @@
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak",
     "status": "down",
-    "uptime": "4.76%",
-    "uptimeDay": "4.76%",
-    "uptimeWeek": "4.76%",
-    "uptimeMonth": "4.76%",
-    "uptimeYear": "4.76%",
+    "uptime": "3.81%",
+    "uptimeDay": "3.81%",
+    "uptimeWeek": "3.81%",
+    "uptimeMonth": "3.81%",
+    "uptimeYear": "3.81%",
     "time": 715,
     "timeDay": 715,
     "timeWeek": 715,
     "timeMonth": 715,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2023-12-05": 0
+      "2023-12-05": 1
     }
   },
   {
