@@ -91,7 +91,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/oribisoftware/upptime/master/assets/icon-dark.svg
   favicon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
   name: Server Status
-  introTitle: '**Server down?** Find up to date information about Oribi's services.'
+  introTitle: '**Server down?** Find up to date information about Oribi\'s services.'
   introMessage: This site will ping the listed services every 5 minutes and alert a developer if issues arise. A more thorough test suite is run every 12 hours by [Postman](https://go.postman.co/workspace/Oribi-Team-Workspace~a7f3260d-f4d1-4306-8861-17fbb8c067eb/collection/1128059-3522d8f6-d6db-4aaa-87f8-d61e7867d7ad).
   navbar:
     - title: Status
