@@ -3,7 +3,7 @@ owner: oribisoftware # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: Hemsidan (oribi.se)
+  - name: Marketing Website (oribi.se)
     url: https://oribi.se
     icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
     assignees:
@@ -13,7 +13,7 @@ sites:
     icon: https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png
     assignees:
       - nilslockean
-  - name: Oribi Web Store / Licensnyckelkontroll (E-nycklar)
+  - name: Oribi Web Store / License key server (E-keys)
     url: $EDD_LICENSE_ENDPOINT/?edd_action=check_license&item_name=test&license=1234
     icon: https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png
     assignees:
@@ -22,27 +22,27 @@ sites:
     url: https://dl.oribisoftware.com
     icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
     assignees:
-      - jkristell
-  - name: Habitat / Licensnyckelkontroll (H-nycklar)
+      - nilslockean
+  - name: Habitat / License key server (H-keys)
     url: $HABITAT_LICENSE_ENDPOINT/1234
     icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
     assignees:
-      - jkristell
-  - name: Habitat / Licenskontroll av domännamn
+      - nilslockean
+  - name: Habitat / Domain name license check
     url: $HABITAT_DOMAINCHECK_ENDPOINT/oribi.se
     icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
     assignees:
-      - jkristell
-  - name: Habitat / Licenskontroll av skolenhetskod
+      - nilslockean
+  - name: Habitat / School ID license check
     url: $HABITAT_SCHOOLID_ENDPOINT/2147483646
     icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
     assignees:
-      - jkristell
+      - nilslockean
   # - name: Databas för användarinställningar i Office-tillägg
   #   url: $USER_SETTINGS_MYSQL_ENDPOINT/oribispeak
   #   assignees:
   #     - glosboken
-  - name: TTS (Oribi Speak talsyntes)
+  - name: TTS (Oribi Speak)
     url: $TTS_ENDPOINT/speak
     icon: https://dev--oribi-speak-light.netlify.app/favicon.ico
     method: POST
@@ -50,13 +50,8 @@ sites:
       - 'Content-Type: application/json'
     body: '{ "text": "detta är ett test", "voice": "elin" }'
     assignees:
-      - jkristell
-  - name: TTS / Tillgängliga röster
-    url: $TTS_ENDPOINT/voices
-    icon: https://oribi-speak-light.netlify.app/favicon.ico
-    assignees:
-      - jkristell
-  - name: Ordprediktion
+      - nilslockean
+  - name: Word Prediction (Oribi Speak)
     url: $PREDICTION_ENDPOINT
     icon: https://oribi-speak-light.netlify.app/favicon.ico
     method: POST
@@ -65,26 +60,19 @@ sites:
       - 'Content-Type: application/json'
     body: '{ "input": "test", "apiKey": "$PREDICTION_API_KEY" }'
     assignees:
-      - jkristell
-    # - name: OCR
-    #   url: https://apipro2.ocr.space/parse/image
-    #   method: POST
-    #   headers:
-    #     - "apikey: $OCR_API_KEY"
-    assignee:
       - nilslockean
-  - name: Ordboken
+  - name: Dictionary API
     url: $DICTIONARY_ENDPOINT/?language=swe&word=test
     icon: https://orilex.netlify.app/favicon.ico
     __dangerous__body_down: '[]'
     assignees:
       - glosboken
-  - name: Ordboken / Tillgänliga ljudfiler
+  - name: Dictionary API / Available phonfiles
     url: $DICTIONARY_SOUNDS_ENDPOINT
     icon: https://orilex.netlify.app/favicon.ico
     assignees:
       - nilslockean
-  - name: Rättstavning
+  - name: Spellcheck Service (SkrivaText)
     url: $SPELLCHECK_ENDPOINT
     icon: https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x.png
     method: POST
@@ -92,12 +80,7 @@ sites:
       - 'Content-Type: application/json'
     body: '{ "text": "abåre" }'
     assignees:
-      - jkristell
-  - name: Mattetecken (Microsoft Word)
-    url: https://mattetecken.netlify.app
-    icon: https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x-6.png
-    assignees:
-      - bonesbopper
+      - nilslockean
 
 status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -107,9 +90,9 @@ status-website:
   theme: night
   logoUrl: https://raw.githubusercontent.com/oribisoftware/upptime/master/assets/icon-dark.svg
   favicon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
-  name: Driftstatus
-  introTitle: '**Servern nere?** Här kan du se aktuell driftstatus för alla Oribis tjänster.'
-  introMessage: Var femte minut gör systemet en kontroll av samtliga servrar och meddelar ansvarig utvecklare om något inte stämmer, allt sköts via [GitHub](https://github.com/oribisoftware/upptime). Var tolfte timme körs även en grundläggande testsvit av [Postman](https://go.postman.co/workspace/Oribi-Team-Workspace~a7f3260d-f4d1-4306-8861-17fbb8c067eb/collection/1128059-3522d8f6-d6db-4aaa-87f8-d61e7867d7ad).
+  name: Server Status
+  introTitle: '**Server down?** Find up to date information about Oribi's services.'
+  introMessage: This site will ping the listed services every 5 minutes and alert a developer if issues arise. A more thorough test suite is run every 12 hours by [Postman](https://go.postman.co/workspace/Oribi-Team-Workspace~a7f3260d-f4d1-4306-8861-17fbb8c067eb/collection/1128059-3522d8f6-d6db-4aaa-87f8-d61e7867d7ad).
   navbar:
     - title: Status
       href: /
@@ -117,63 +100,3 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Postman
       href: https://oribisoftware.postman.co
-
-i18n:
-  activeIncidents: Problem just nu
-  allSystemsOperational: Alla servrar snurrar som de ska!
-  incidentReport: 'Incidentrapport #$NUMBER →'
-  activeIncidentSummary: Upptäckt $DATE med $POSTS statusuppdateringar
-  incidentTitle: Detaljer om incident $NUMBER
-  incidentDetails: Incidentdetaljer
-  incidentFixed: Löst
-  incidentOngoing: Buggrapport skapad
-  incidentOpenedAt: Upptäckt
-  incidentClosedAt: Åtgärdat
-  incidentSubscribe: Håll mig uppdaterad
-  incidentViewOnGitHub: Visa på GitHub
-  incidentCommentSummary: Statusuppdatering av $AUTHOR den $DATE
-  incidentBack: ← Tillbaka till översikten
-  pastIncidents: Tidigare problem
-  pastIncidentsResolved: Löst på $MINUTES minuter med $POSTS statusuppdateringar
-  liveStatus: Status just nu
-  overallUptime: 'Upptid: $UPTIME'
-  overallUptimeTitle: Upptid
-  averageResponseTime: 'Genomsnittlig svarstid: $TIMEms'
-  averageResponseTimeTitle: Genomsnittlig svarstid
-  sevelDayResponseTime: Svarstid senaste veckan
-  responseTimeMs: Svarstid (ms)
-  up: Uppe
-  down: Nere
-  degraded: Degraderad
-  ms: ms
-  loading: Laddar
-  navGitHub: GitHub
-  footer: Denna sida är [publik](https://github.com/$OWNER/$REPO), och bygger på [Upptime](https://upptime.js.org)
-  rateLimitExceededTitle: Rate limit exceeded
-  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
-  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
-  rateLimitExceededErrorHowCanFix: How can I fix it?
-  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
-  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
-  rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
-  rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Copy and paste your token
-  rateLimitExceededSaveToken: Save token
-  errorTitle: Något gick fel
-  errorIntro: Kunde inte hämta aktuell driftstatus.
-  errorText: Prova igen om en stund.
-  errorHome: Gå till startsidan.
-  pastScheduledMaintenance: Tidigare planerat underhåll
-  scheduledMaintenance: Planerat underhåll
-  scheduledMaintenanceSummaryStarted: Började $DATE och pågick i $DURATION minuter
-  scheduledMaintenanceSummaryStarts: Börjar $DATE och pågår i $DURATION minuter
-  startedAt: Började
-  startsAt: Börjar
-  duration: Tidsåtgång
-  durationMin: $DURATION minuter
-  incidentCompleted: Avslutad
-  incidentScheduled: Kommande
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
