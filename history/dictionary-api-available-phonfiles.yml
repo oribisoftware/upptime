@@ -1,7 +1,7 @@
 url: $DICTIONARY_SOUNDS_ENDPOINT
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-19T11:45:43.389Z
+status: up
+code: 200
+responseTime: 959
+lastUpdated: 2023-12-19T11:49:09.621Z
 startTime: 2023-12-05T09:49:19.475Z
 generator: Upptime <https://github.com/upptime/upptime>
