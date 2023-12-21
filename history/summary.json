@@ -22,10 +22,10 @@
     "url": "https://oribisoftware.com/en",
     "icon": "https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png",
     "slug": "oribi-web-store-oribisoftware-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1275,
@@ -34,6 +34,7 @@
     "timeMonth": 1052,
     "timeYear": 1203,
     "dailyMinutesDown": {
+      "2023-12-21": 2,
       "2023-10-19": 25,
       "2023-01-25": 36
     }
@@ -43,36 +44,39 @@
     "url": "$EDD_LICENSE_ENDPOINT/?edd_action=check_license&item_name=test&license=1234",
     "icon": "https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png",
     "slug": "oribi-web-store-license-key-server-e-keys",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 256,
     "timeDay": 223,
     "timeWeek": 262,
     "timeMonth": 256,
     "timeYear": 256,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-21": 1
+    }
   },
   {
     "name": "Habitat (dl.oribisoftware.com)",
     "url": "https://dl.oribisoftware.com",
     "icon": "https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png",
     "slug": "habitat-dl-oribisoftware-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1270,
+    "time": 1271,
     "timeDay": 1151,
     "timeWeek": 1403,
     "timeMonth": 1393,
     "timeYear": 1383,
     "dailyMinutesDown": {
+      "2023-12-21": 1,
       "2023-10-24": 16,
       "2023-01-25": 43
     }
@@ -137,11 +141,11 @@
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak",
     "status": "up",
-    "uptime": "92.26%",
+    "uptime": "92.30%",
     "uptimeDay": "96.79%",
     "uptimeWeek": "90.17%",
-    "uptimeMonth": "92.26%",
-    "uptimeYear": "92.26%",
+    "uptimeMonth": "92.30%",
+    "uptimeYear": "92.30%",
     "time": 1390,
     "timeDay": 1595,
     "timeWeek": 1423,
@@ -206,9 +210,9 @@
     "url": "$DICTIONARY_SOUNDS_ENDPOINT",
     "icon": "https://orilex.netlify.app/favicon.ico",
     "slug": "dictionary-api-available-phonfiles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -217,7 +221,9 @@
     "timeWeek": 1170,
     "timeMonth": 1141,
     "timeYear": 1141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-21": 0
+    }
   },
   {
     "name": "Spellcheck Service (SkrivaText)",
