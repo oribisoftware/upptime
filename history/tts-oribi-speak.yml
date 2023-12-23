@@ -1,7 +1,7 @@
 url: $TTS_ENDPOINT/speak
 status: up
 code: 200
-responseTime: 1692
-lastUpdated: 2023-12-23T22:13:59.157Z
+responseTime: 1423
+lastUpdated: 2023-12-23T23:02:51.561Z
 startTime: 2023-12-05T09:49:12.736Z
 generator: Upptime <https://github.com/upptime/upptime>
