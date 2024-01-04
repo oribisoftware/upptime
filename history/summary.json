@@ -140,14 +140,14 @@
     "url": "$TTS_ENDPOINT/speak",
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak",
-    "status": "up",
-    "uptime": "93.85%",
-    "uptimeDay": "85.13%",
+    "status": "down",
+    "uptime": "93.94%",
+    "uptimeDay": "86.58%",
     "uptimeWeek": "88.57%",
-    "uptimeMonth": "93.85%",
-    "uptimeYear": "93.85%",
+    "uptimeMonth": "93.94%",
+    "uptimeYear": "93.94%",
     "time": 1604,
-    "timeDay": 1451,
+    "timeDay": 1414,
     "timeWeek": 1886,
     "timeMonth": 1604,
     "timeYear": 1604,
@@ -169,7 +169,7 @@
       "2023-12-21": 57,
       "2023-12-20": 46,
       "2023-12-19": 38,
-      "2023-12-18": 82
+      "2023-12-18": 47
     }
   },
   {
