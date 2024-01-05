@@ -13,7 +13,7 @@
     "time": 483,
     "timeDay": 244,
     "timeWeek": 515,
-    "timeMonth": 483,
+    "timeMonth": 492,
     "timeYear": 483,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1248,
     "timeDay": 589,
     "timeWeek": 704,
-    "timeMonth": 1006,
+    "timeMonth": 1009,
     "timeYear": 1183,
     "dailyMinutesDown": {
       "2023-12-21": 21,
@@ -53,7 +53,7 @@
     "time": 259,
     "timeDay": 228,
     "timeWeek": 259,
-    "timeMonth": 259,
+    "timeMonth": 258,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2023-12-21": 21
@@ -73,7 +73,7 @@
     "time": 1290,
     "timeDay": 1223,
     "timeWeek": 1313,
-    "timeMonth": 1390,
+    "timeMonth": 1375,
     "timeYear": 1403,
     "dailyMinutesDown": {
       "2023-12-21": 20,
@@ -95,7 +95,7 @@
     "time": 157,
     "timeDay": 128,
     "timeWeek": 152,
-    "timeMonth": 157,
+    "timeMonth": 156,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -113,7 +113,7 @@
     "time": 153,
     "timeDay": 121,
     "timeWeek": 143,
-    "timeMonth": 153,
+    "timeMonth": 152,
     "timeYear": 153,
     "dailyMinutesDown": {}
   },
@@ -131,7 +131,7 @@
     "time": 155,
     "timeDay": 128,
     "timeWeek": 148,
-    "timeMonth": 155,
+    "timeMonth": 154,
     "timeYear": 155,
     "dailyMinutesDown": {}
   },
@@ -140,19 +140,19 @@
     "url": "$TTS_ENDPOINT/speak",
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak",
-    "status": "down",
-    "uptime": "94.19%",
-    "uptimeDay": "84.55%",
-    "uptimeWeek": "88.10%",
-    "uptimeMonth": "94.08%",
-    "uptimeYear": "94.19%",
-    "time": 1669,
-    "timeDay": 2596,
-    "timeWeek": 2080,
-    "timeMonth": 1669,
-    "timeYear": 1669,
+    "status": "up",
+    "uptime": "94.14%",
+    "uptimeDay": "84.02%",
+    "uptimeWeek": "87.88%",
+    "uptimeMonth": "94.03%",
+    "uptimeYear": "94.14%",
+    "time": 1671,
+    "timeDay": 2688,
+    "timeWeek": 2081,
+    "timeMonth": 1674,
+    "timeYear": 1671,
     "dailyMinutesDown": {
-      "2024-01-05": 111,
+      "2024-01-05": 133,
       "2024-01-04": 155,
       "2024-01-03": 207,
       "2024-01-02": 121,
@@ -183,7 +183,7 @@
     "time": 599,
     "timeDay": 879,
     "timeWeek": 631,
-    "timeMonth": 599,
+    "timeMonth": 596,
     "timeYear": 599,
     "dailyMinutesDown": {}
   },
@@ -201,7 +201,7 @@
     "time": 684,
     "timeDay": 526,
     "timeWeek": 660,
-    "timeMonth": 684,
+    "timeMonth": 681,
     "timeYear": 684,
     "dailyMinutesDown": {}
   },
@@ -219,7 +219,7 @@
     "time": 1123,
     "timeDay": 932,
     "timeWeek": 1054,
-    "timeMonth": 1123,
+    "timeMonth": 1109,
     "timeYear": 1123,
     "dailyMinutesDown": {
       "2023-12-21": 20
@@ -239,7 +239,7 @@
     "time": 203,
     "timeDay": 189,
     "timeWeek": 203,
-    "timeMonth": 203,
+    "timeMonth": 202,
     "timeYear": 203,
     "dailyMinutesDown": {}
   }
