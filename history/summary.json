@@ -193,18 +193,20 @@
     "url": "$DICTIONARY_ENDPOINT/?language=swe&word=test",
     "icon": "https://orilex.netlify.app/favicon.ico",
     "slug": "dictionary-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 800,
-    "timeWeek": 674,
-    "timeMonth": 687,
-    "timeYear": 687,
-    "dailyMinutesDown": {}
+    "time": 681,
+    "timeDay": 635,
+    "timeWeek": 649,
+    "timeMonth": 681,
+    "timeYear": 681,
+    "dailyMinutesDown": {
+      "2024-01-08": 0
+    }
   },
   {
     "name": "Dictionary API / Available phonfiles",
