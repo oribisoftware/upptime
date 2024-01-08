@@ -140,17 +140,17 @@
     "url": "$TTS_ENDPOINT/speak",
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak",
-    "status": "up",
-    "uptime": "95.16%",
-    "uptimeDay": "84.92%",
-    "uptimeWeek": "88.84%",
-    "uptimeMonth": "94.53%",
-    "uptimeYear": "95.16%",
-    "time": 1643,
-    "timeDay": 1367,
-    "timeWeek": 1698,
-    "timeMonth": 1656,
-    "timeYear": 1643,
+    "status": "down",
+    "uptime": "95.26%",
+    "uptimeDay": "84.90%",
+    "uptimeWeek": "89.10%",
+    "uptimeMonth": "94.64%",
+    "uptimeYear": "95.26%",
+    "time": 1640,
+    "timeDay": 1330,
+    "timeWeek": 1689,
+    "timeMonth": 1653,
+    "timeYear": 1640,
     "dailyMinutesDown": {
       "2024-01-08": 192,
       "2024-01-07": 214,
@@ -166,7 +166,7 @@
       "2023-12-28": 164,
       "2023-12-27": 130,
       "2023-12-26": 165,
-      "2023-12-25": 195
+      "2023-12-25": 148
     }
   },
   {
@@ -193,18 +193,18 @@
     "icon": "https://orilex.netlify.app/favicon.ico",
     "slug": "dictionary-api",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "93.53%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.63%",
+    "uptimeDay": "87.29%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.63%",
     "time": 681,
     "timeDay": 635,
     "timeWeek": 649,
     "timeMonth": 681,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2024-01-08": 93
+      "2024-01-08": 183
     }
   },
   {
