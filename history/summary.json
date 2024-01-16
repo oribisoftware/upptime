@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 538,
     "timeDay": 225,
-    "timeWeek": 643,
+    "timeWeek": 453,
     "timeMonth": 484,
     "timeYear": 538,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.98%",
     "time": 1234,
     "timeDay": 914,
-    "timeWeek": 979,
+    "timeWeek": 720,
     "timeMonth": 932,
     "timeYear": 1161,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
     "uptimeYear": "99.97%",
     "time": 262,
     "timeDay": 300,
-    "timeWeek": 253,
+    "timeWeek": 244,
     "timeMonth": 266,
     "timeYear": 262,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
     "uptimeYear": "99.98%",
     "time": 1304,
     "timeDay": 2170,
-    "timeWeek": 1416,
+    "timeWeek": 1373,
     "timeMonth": 1413,
     "timeYear": 1417,
     "dailyMinutesDown": {
@@ -94,7 +94,7 @@
     "uptimeYear": "100.00%",
     "time": 158,
     "timeDay": 192,
-    "timeWeek": 154,
+    "timeWeek": 145,
     "timeMonth": 159,
     "timeYear": 158,
     "dailyMinutesDown": {}
@@ -112,7 +112,7 @@
     "uptimeYear": "100.00%",
     "time": 154,
     "timeDay": 191,
-    "timeWeek": 147,
+    "timeWeek": 138,
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {}
@@ -130,7 +130,7 @@
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 192,
-    "timeWeek": 153,
+    "timeWeek": 143,
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {}
@@ -140,17 +140,17 @@
     "url": "$TTS_ENDPOINT/speak",
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak",
-    "status": "up",
-    "uptime": "95.88%",
-    "uptimeDay": "92.80%",
-    "uptimeWeek": "93.52%",
-    "uptimeMonth": "94.33%",
-    "uptimeYear": "95.88%",
-    "time": 1617,
-    "timeDay": 1293,
-    "timeWeek": 1496,
-    "timeMonth": 1667,
-    "timeYear": 1617,
+    "status": "down",
+    "uptime": "95.93%",
+    "uptimeDay": "95.94%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "94.37%",
+    "uptimeYear": "95.93%",
+    "time": 1614,
+    "timeDay": 1096,
+    "timeWeek": 1480,
+    "timeMonth": 1662,
+    "timeYear": 1614,
     "dailyMinutesDown": {
       "2024-01-16": 58,
       "2024-01-15": 46,
@@ -170,7 +170,7 @@
       "2023-12-31": 158,
       "2023-12-30": 140,
       "2023-12-29": 169,
-      "2023-12-28": 46
+      "2023-12-28": 30
     }
   },
   {
@@ -186,7 +186,7 @@
     "uptimeYear": "100.00%",
     "time": 605,
     "timeDay": 872,
-    "timeWeek": 591,
+    "timeWeek": 570,
     "timeMonth": 613,
     "timeYear": 605,
     "dailyMinutesDown": {}
@@ -197,14 +197,14 @@
     "icon": "https://orilex.netlify.app/favicon.ico",
     "slug": "dictionary-api",
     "status": "up",
-    "uptime": "98.01%",
+    "uptime": "98.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.12%",
+    "uptimeWeek": "98.87%",
     "uptimeMonth": "97.27%",
-    "uptimeYear": "98.01%",
+    "uptimeYear": "98.03%",
     "time": 655,
     "timeDay": 806,
-    "timeWeek": 564,
+    "timeWeek": 558,
     "timeMonth": 649,
     "timeYear": 655,
     "dailyMinutesDown": {
@@ -225,7 +225,7 @@
     "uptimeYear": "99.97%",
     "time": 1142,
     "timeDay": 1439,
-    "timeWeek": 1082,
+    "timeWeek": 1032,
     "timeMonth": 1147,
     "timeYear": 1142,
     "dailyMinutesDown": {
@@ -245,7 +245,7 @@
     "uptimeYear": "100.00%",
     "time": 206,
     "timeDay": 238,
-    "timeWeek": 205,
+    "timeWeek": 194,
     "timeMonth": 208,
     "timeYear": 206,
     "dailyMinutesDown": {}
