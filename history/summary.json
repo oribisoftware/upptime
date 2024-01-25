@@ -32,7 +32,7 @@
     "timeDay": 2668,
     "timeWeek": 1180,
     "timeMonth": 995,
-    "timeYear": 1157,
+    "timeYear": 1152,
     "dailyMinutesDown": {
       "2023-12-21": 21,
       "2023-10-19": 25
@@ -73,7 +73,7 @@
     "timeDay": 1799,
     "timeWeek": 1300,
     "timeMonth": 1399,
-    "timeYear": 1407,
+    "timeYear": 1383,
     "dailyMinutesDown": {
       "2023-12-21": 20,
       "2023-10-24": 16
@@ -138,17 +138,17 @@
     "url": "$TTS_ENDPOINT/speak",
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak",
-    "status": "up",
-    "uptime": "96.59%",
-    "uptimeDay": "97.50%",
+    "status": "down",
+    "uptime": "96.62%",
+    "uptimeDay": "98.75%",
     "uptimeWeek": "99.13%",
-    "uptimeMonth": "94.28%",
-    "uptimeYear": "96.59%",
-    "time": 1589,
-    "timeDay": 1421,
-    "timeWeek": 1362,
+    "uptimeMonth": "94.34%",
+    "uptimeYear": "96.62%",
+    "time": 1586,
+    "timeDay": 1244,
+    "timeWeek": 1320,
     "timeMonth": 1683,
-    "timeYear": 1589,
+    "timeYear": 1586,
     "dailyMinutesDown": {
       "2024-01-25": 18,
       "2024-01-24": 34,
@@ -170,7 +170,7 @@
       "2024-01-03": 207,
       "2024-01-02": 121,
       "2024-01-01": 179,
-      "2023-12-31": 158
+      "2023-12-31": 131
     }
   },
   {
