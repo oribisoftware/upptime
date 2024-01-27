@@ -1,7 +1,7 @@
 url: $EDD_LICENSE_ENDPOINT/?edd_action=check_license&item_name=test&license=1234
 status: up
 code: 200
-responseTime: 245
-lastUpdated: 2024-01-26T23:02:41.830Z
+responseTime: 266
+lastUpdated: 2024-01-27T23:03:35.567Z
 startTime: 2023-12-05T09:49:07.820Z
 generator: Upptime <https://github.com/upptime/upptime>
