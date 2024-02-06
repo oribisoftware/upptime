@@ -23,6 +23,11 @@ sites:
     icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
     assignees:
       - nilslockean
+  - name: Privacy policy
+    url: https://oribi.se/gdpr/
+    icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
+    assignees:
+      - nilslockean
   - name: Habitat / License key server (H-keys)
     url: $HABITAT_LICENSE_ENDPOINT/1234
     icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
