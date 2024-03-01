@@ -9,22 +9,17 @@ sites:
     assignees:
       - nilslockean
   - name: Oribi Web Store (oribisoftware.com)
-    url: https://oribisoftware.com/en
+    url: https://oribisoftware.com/sv/shop/tag/stava-rex/
     icon: https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png
     assignees:
       - nilslockean
-  - name: Oribi Web Store / License key server (E-keys)
+  - name: Single User Licencing Store (shop.oribi.se)
     url: $EDD_LICENSE_ENDPOINT/?edd_action=check_license&item_name=test&license=1234
     icon: https://easydigitaldownloads.com/wp-content/uploads/2018/12/favicon-128x128.png
     assignees:
       - nilslockean
   - name: Habitat (dl.oribisoftware.com)
     url: https://dl.oribisoftware.com
-    icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
-    assignees:
-      - nilslockean
-  - name: Privacy policy
-    url: https://oribi.se/gdpr/
     icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
     assignees:
       - nilslockean
@@ -43,12 +38,8 @@ sites:
     icon: https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png
     assignees:
       - nilslockean
-  # - name: Databas för användarinställningar i Office-tillägg
-  #   url: $USER_SETTINGS_MYSQL_ENDPOINT/oribispeak
-  #   assignees:
-  #     - nilslockean
   - name: TTS (Oribi Speak)
-    url: $TTS_ENDPOINT/speak
+    url: $TTS_ENDPOINT/speakb64
     icon: https://dev--oribi-speak-light.netlify.app/favicon.ico
     method: POST
     headers:
@@ -72,11 +63,6 @@ sites:
     __dangerous__body_down: '[]'
     assignees:
       - nilslockean
-  - name: Dictionary API / Available phonfiles
-    url: $DICTIONARY_SOUNDS_ENDPOINT
-    icon: https://orilex.netlify.app/favicon.ico
-    assignees:
-      - nilslockean
   - name: Spellcheck Service (SkrivaText)
     url: $SPELLCHECK_ENDPOINT
     icon: https://oribi.se/wp-content/uploads/2021/03/icon_128x128@2x.png
@@ -84,6 +70,11 @@ sites:
     headers:
       - 'Content-Type: application/json'
     body: '{ "text": "abåre" }'
+    assignees:
+      - nilslockean
+  - name: SkrivaText API Gateway Server
+    url: https://skrivatext.texthelp.com/health
+    icon: https://raw.githubusercontent.com/oribisoftware/upptime/master/assets/SkrivaText-Icon.svg
     assignees:
       - nilslockean
 
