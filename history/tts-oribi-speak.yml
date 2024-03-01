@@ -1,7 +1,7 @@
 url: $TTS_ENDPOINT/speakb64
 status: down
 code: 400
-responseTime: 452
-lastUpdated: 2024-03-01T09:46:29.973Z
+responseTime: 608
+lastUpdated: 2024-03-01T23:02:58.836Z
 startTime: 2023-12-05T09:49:12.736Z
 generator: Upptime <https://github.com/upptime/upptime>
