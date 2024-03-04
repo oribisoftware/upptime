@@ -1,7 +1,7 @@
-url: $TTS_ENDPOINT/speakb64
-status: down
-code: 400
-responseTime: 639
-lastUpdated: 2024-03-03T23:02:47.943Z
+url: https://tts.oribi.se/v2/speakb64
+status: up
+code: 200
+responseTime: 1943
+lastUpdated: 2024-03-04T07:18:55.579Z
 startTime: 2023-12-05T09:49:12.736Z
 generator: Upptime <https://github.com/upptime/upptime>
