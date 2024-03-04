@@ -39,11 +39,12 @@ sites:
     assignees:
       - nilslockean
   - name: TTS (Oribi Speak)
-    url: $TTS_ENDPOINT/speakb64
+    url: https://tts.oribi.se/v2/speakb64
     icon: https://dev--oribi-speak-light.netlify.app/favicon.ico
     method: POST
     headers:
       - 'Content-Type: application/json'
+      - 'oribiapikey: kpr8waz6rkvbru6YRD'
     body: '{ "text": "detta är ett test", "voice": "elin" }'
     assignees:
       - nilslockean
