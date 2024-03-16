@@ -6,9 +6,9 @@
     "slug": "marketing-website-oribi-se",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 545,
     "timeDay": 276,
@@ -16,7 +16,6 @@
     "timeMonth": 313,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2024-03-16": 8,
       "2024-02-10": 22
     }
   },
@@ -141,18 +140,19 @@
     "url": "https://tts.oribi.se/v2/speakb64",
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak",
-    "status": "up",
-    "uptime": "95.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "87.83%",
-    "uptimeYear": "95.37%",
+    "status": "down",
+    "uptime": "95.39%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "87.89%",
+    "uptimeYear": "95.39%",
     "time": 1704,
     "timeDay": 2349,
-    "timeWeek": 3094,
-    "timeMonth": 2176,
+    "timeWeek": 3137,
+    "timeMonth": 2187,
     "timeYear": 1704,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2024-03-09": 15,
       "2024-03-04": 439,
       "2024-03-03": 1440,
@@ -191,8 +191,7 @@
       "2024-01-17": 91,
       "2024-01-16": 219,
       "2024-01-15": 46,
-      "2024-01-14": 166,
-      "2024-01-13": 33
+      "2024-01-14": 166
     }
   },
   {
