@@ -1,7 +1,7 @@
 url: https://tts.oribi.se/v2/speakb64
-status: down
-code: 502
-responseTime: 552
-lastUpdated: 2024-03-20T11:55:49.431Z
+status: up
+code: 200
+responseTime: 9421
+lastUpdated: 2024-03-20T12:02:30.157Z
 startTime: 2023-12-05T09:49:12.736Z
 generator: Upptime <https://github.com/upptime/upptime>
