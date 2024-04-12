@@ -1,7 +1,7 @@
 url: $HABITAT_DOMAINCHECK_ENDPOINT/oribi.se
 status: up
 code: 200
-responseTime: 170
-lastUpdated: 2024-04-11T23:03:31.294Z
+responseTime: 122
+lastUpdated: 2024-04-12T23:02:34.420Z
 startTime: 2023-12-05T09:49:11.369Z
 generator: Upptime <https://github.com/upptime/upptime>
