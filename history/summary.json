@@ -140,18 +140,19 @@
     "url": "https://tts.oribi.se/v2/speakb64",
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak",
-    "status": "up",
-    "uptime": "97.33%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.35%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.33%",
+    "uptimeYear": "97.35%",
     "time": 1805,
     "timeDay": 2590,
     "timeWeek": 2215,
     "timeMonth": 2239,
     "timeYear": 1805,
     "dailyMinutesDown": {
+      "2024-05-29": 0,
       "2024-04-07": 18,
       "2024-03-28": 18,
       "2024-03-19": 23,
@@ -193,7 +194,7 @@
       "2024-01-17": 91,
       "2024-01-16": 219,
       "2024-01-15": 46,
-      "2024-01-14": 94
+      "2024-01-14": 58
     }
   },
   {
