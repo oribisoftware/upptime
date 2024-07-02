@@ -141,11 +141,11 @@
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak",
     "status": "up",
-    "uptime": "97.76%",
+    "uptime": "97.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.76%",
+    "uptimeYear": "97.77%",
     "time": 1823,
     "timeDay": 2306,
     "timeWeek": 2268,
@@ -258,17 +258,19 @@
     "url": "https://skrivatext.texthelp.com/health",
     "icon": "https://raw.githubusercontent.com/oribisoftware/upptime/master/assets/SkrivaText-Icon.svg",
     "slug": "skriva-text-api-gateway-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 538,
-    "timeWeek": 518,
+    "time": 498,
+    "timeDay": 518,
+    "timeWeek": 512,
     "timeMonth": 477,
-    "timeYear": 499,
-    "dailyMinutesDown": {}
+    "timeYear": 498,
+    "dailyMinutesDown": {
+      "2024-07-02": 0
+    }
   }
 ]
