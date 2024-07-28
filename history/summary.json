@@ -4,9 +4,9 @@
     "url": "https://oribi.se",
     "icon": "https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png",
     "slug": "marketing-website-oribi-se",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 334,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2024-07-28": 0,
       "2024-02-10": 22
     }
   },
@@ -141,11 +142,11 @@
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "97.99%",
+    "uptimeYear": "98.00%",
     "time": 1858,
     "timeDay": 2326,
     "timeWeek": 2239,
