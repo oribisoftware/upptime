@@ -1,7 +1,7 @@
 url: $HABITAT_LICENSE_ENDPOINT/1234
 status: down
 code: 502
-responseTime: 170
-lastUpdated: 2024-08-17T09:56:09.410Z
+responseTime: 105
+lastUpdated: 2024-08-17T23:03:05.942Z
 startTime: 2023-12-05T09:49:10.706Z
 generator: Upptime <https://github.com/upptime/upptime>
