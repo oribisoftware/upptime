@@ -65,16 +65,16 @@
     "url": "https://dl.oribisoftware.com",
     "icon": "https://oribi.se/wp-content/uploads/2020/01/oribi-favicon.png",
     "slug": "habitat-dl-oribisoftware-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "72.77%",
+    "uptimeDay": "0.38%",
+    "uptimeWeek": "72.76%",
     "uptimeMonth": "93.73%",
     "uptimeYear": "99.47%",
     "time": 1393,
-    "timeDay": 1246,
-    "timeWeek": 1891,
-    "timeMonth": 1664,
+    "timeDay": 1292,
+    "timeWeek": 1840,
+    "timeMonth": 1655,
     "timeYear": 1404,
     "dailyMinutesDown": {
       "2024-08-19": 461,
@@ -92,8 +92,8 @@
     "status": "down",
     "uptime": "99.26%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.76%",
-    "uptimeMonth": "93.73%",
+    "uptimeWeek": "72.71%",
+    "uptimeMonth": "93.72%",
     "uptimeYear": "99.26%",
     "time": 156,
     "timeDay": 170,
@@ -101,7 +101,7 @@
     "timeMonth": 166,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-08-19": 462,
+      "2024-08-19": 467,
       "2024-08-18": 1440,
       "2024-08-17": 844
     }
@@ -114,8 +114,8 @@
     "status": "down",
     "uptime": "99.26%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.76%",
-    "uptimeMonth": "93.73%",
+    "uptimeWeek": "72.71%",
+    "uptimeMonth": "93.72%",
     "uptimeYear": "99.26%",
     "time": 152,
     "timeDay": 170,
@@ -123,7 +123,7 @@
     "timeMonth": 164,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2024-08-19": 462,
+      "2024-08-19": 467,
       "2024-08-18": 1440,
       "2024-08-17": 844
     }
@@ -136,8 +136,8 @@
     "status": "down",
     "uptime": "99.26%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.76%",
-    "uptimeMonth": "93.73%",
+    "uptimeWeek": "72.71%",
+    "uptimeMonth": "93.72%",
     "uptimeYear": "99.26%",
     "time": 154,
     "timeDay": 170,
@@ -145,7 +145,7 @@
     "timeMonth": 165,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2024-08-19": 462,
+      "2024-08-19": 467,
       "2024-08-18": 1440,
       "2024-08-17": 844
     }
