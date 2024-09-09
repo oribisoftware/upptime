@@ -172,11 +172,11 @@
     "icon": "https://dev--oribi-speak-light.netlify.app/favicon.ico",
     "slug": "tts-oribi-speak",
     "status": "up",
-    "uptime": "98.30%",
+    "uptime": "98.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.30%",
+    "uptimeYear": "98.31%",
     "time": 1906,
     "timeDay": 2020,
     "timeWeek": 2125,
@@ -251,9 +251,9 @@
     "url": "$DICTIONARY_ENDPOINT/?language=swe&word=test",
     "icon": "https://orilex.netlify.app/favicon.ico",
     "slug": "dictionary-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
@@ -263,6 +263,7 @@
     "timeMonth": 621,
     "timeYear": 634,
     "dailyMinutesDown": {
+      "2024-09-09": 0,
       "2024-01-09": 817,
       "2024-01-08": 380
     }
