@@ -251,18 +251,19 @@
     "url": "$DICTIONARY_ENDPOINT/?language=swe&word=test",
     "icon": "https://orilex.netlify.app/favicon.ico",
     "slug": "dictionary-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 669,
-    "timeDay": 5638,
+    "timeDay": 628,
     "timeWeek": 1893,
     "timeMonth": 938,
     "timeYear": 669,
     "dailyMinutesDown": {
+      "2024-09-10": 0,
       "2024-01-09": 817,
       "2024-01-08": 380
     }
