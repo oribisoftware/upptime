@@ -1,7 +1,7 @@
 url: https://oribi.se
-status: up
-code: 200
-responseTime: 428
-lastUpdated: 2024-09-13T23:03:06.931Z
+status: down
+code: 500
+responseTime: 289
+lastUpdated: 2024-09-14T09:52:53.118Z
 startTime: 2023-12-05T09:49:06.004Z
 generator: Upptime <https://github.com/upptime/upptime>
