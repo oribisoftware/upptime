@@ -290,19 +290,19 @@
     "url": "https://skrivatext.texthelp.com/health",
     "icon": "https://raw.githubusercontent.com/oribisoftware/upptime/master/assets/SkrivaText-Icon.svg",
     "slug": "skriva-text-api-gateway-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 516,
-    "timeDay": 551,
-    "timeWeek": 508,
-    "timeMonth": 514,
+    "timeDay": 527,
+    "timeWeek": 504,
+    "timeMonth": 513,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2024-09-28": 0
+      "2024-09-28": 5
     }
   }
 ]
