@@ -28,9 +28,9 @@
     "slug": "oribi-web-store-oribisoftware-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1216,
     "timeDay": 1265,
@@ -38,7 +38,6 @@
     "timeMonth": 1188,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2025-05-27": 6,
       "2024-12-05": 18
     }
   },
@@ -49,9 +48,9 @@
     "slug": "single-user-licencing-store-shop-oribi-se",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 245,
     "timeDay": 238,
@@ -59,7 +58,6 @@
     "timeMonth": 239,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-05-27": 6,
       "2024-12-05": 17
     }
   },
@@ -230,7 +228,8 @@
     "timeMonth": 0,
     "timeYear": 977,
     "dailyMinutesDown": {
-      "2025-05-27": 1420,
+      "2025-05-28": 1,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
