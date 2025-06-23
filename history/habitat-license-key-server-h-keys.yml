@@ -1,7 +1,7 @@
 url: $HABITAT_LICENSE_ENDPOINT/1234
 status: up
 code: 200
-responseTime: 124
-lastUpdated: 2025-06-22T23:03:20.434Z
+responseTime: 150
+lastUpdated: 2025-06-23T23:02:53.423Z
 startTime: 2023-12-05T09:49:10.706Z
 generator: Upptime <https://github.com/upptime/upptime>
