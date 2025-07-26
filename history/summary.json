@@ -28,9 +28,9 @@
     "slug": "oribi-web-store-oribisoftware-com",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1203,
     "timeDay": 960,
@@ -38,7 +38,6 @@
     "timeMonth": 1105,
     "timeYear": 1255,
     "dailyMinutesDown": {
-      "2025-07-25": 11,
       "2025-06-09": 44,
       "2024-12-05": 18
     }
@@ -50,9 +49,9 @@
     "slug": "single-user-licencing-store-shop-oribi-se",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 240,
     "timeDay": 199,
@@ -60,7 +59,6 @@
     "timeMonth": 212,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2025-07-25": 11,
       "2025-06-09": 44,
       "2024-12-05": 17
     }
@@ -72,9 +70,9 @@
     "slug": "habitat-dl-oribisoftware-com",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.37%",
     "time": 1525,
     "timeDay": 1031,
@@ -82,7 +80,6 @@
     "timeMonth": 1424,
     "timeYear": 1592,
     "dailyMinutesDown": {
-      "2025-07-25": 11,
       "2025-06-09": 44,
       "2024-12-05": 17,
       "2024-08-23": 479,
@@ -233,7 +230,8 @@
     "timeMonth": 0,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2025-07-25": 1407,
+      "2025-07-26": 1,
+      "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
